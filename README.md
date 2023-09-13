@@ -11,10 +11,12 @@ public static class Program
 {         
     public static void Main()
     {
+
+
 		//ToGet:Name
         Console.WriteLine("What is your name?");
 		string name=Console.ReadLine();
-		Console.WriteLine("Hello " + name " this is a SURVEY PROJECT kindly answer the following questions:");
+		Console.WriteLine("Hello " + name + " this is a SURVEY PROJECT kindly answer the following questions:");
 		Console.WriteLine();
 		
 		//To:Continue 
